@@ -1,0 +1,6 @@
+# simulator
+env/
+env_linux/
+
+# python
+*.pyc
