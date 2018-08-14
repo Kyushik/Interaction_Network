@@ -6,7 +6,7 @@ This repository is for implementing [Interaction Networks for Learning about Obj
 
 ## Environment
 
-![Env](D:\Github\Interaction_Network\Image\Env.gif)
+![Env](./Image/Env.gif)
 
 
 
