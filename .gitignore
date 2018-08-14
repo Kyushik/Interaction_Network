@@ -4,3 +4,4 @@ env_linux/
 
 # python
 *.pyc
+.ipynb_checkpoints/
