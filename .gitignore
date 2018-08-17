@@ -5,3 +5,10 @@ env_linux/
 # python
 *.pyc
 .ipynb_checkpoints/
+
+# log file
+
+*.mat
+*.bag
+data/
+save/
