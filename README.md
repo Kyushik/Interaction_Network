@@ -10,7 +10,7 @@ This repository is for implementing [Interaction Networks for Learning about Obj
 
 
 
-There are 5 balls in the environment. They bounce when they collide with each other or collide with wall. 
+The environment is made with [Unity ML-agents](https://unity3d.com/machine-learning). There are 5 balls in the environment. They bounce when they collide with each other or collide with wall. The goal of this project is to predict position of the balls using **Interaction Network**. 
 
 1 episode is 1000 steps. At every episode, balls are on random position at random speed. 
 
@@ -22,10 +22,21 @@ The state information of each ball is as follows.
 - Position y
 - Velocity x
 - Velocity y
-- Mass
-- Size
+- 1/Mass
+- 1/Size
 
-Therefore, total state vector size is 30. (6 data X 5 balls)
+Therefore, total state vector size is 36. (6 data X (5 balls + wall))
 
 
+
+In the dataset, there is data **X** and **Y**. Data X is input data of the Interaction network and Data Y is the next time step data of X. 
+
+<br>
+
+## Links
+
+- [Env (windows)]()
+- [Env (Linux)]()
+- [Training data]()
+- [Testing data]() 
 
