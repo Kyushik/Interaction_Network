@@ -1,6 +1,4 @@
 # simulator
-env/
-env_linux/
 
 # python
 *.pyc
@@ -8,3 +6,4 @@ env_linux/
 
 # data files
 *.mat
+*.zip
