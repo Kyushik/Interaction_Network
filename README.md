@@ -33,10 +33,18 @@ In the dataset, there is data **X** and **Y**. Data X is input data of the Inter
 
 <br>
 
-## Links
+## Description of Files
 
-- [Env (windows)]()
-- [Env (Linux)]()
-- [Training data]()
-- [Testing data]() 
+- Making_Dataset.ipynb: You can make training and testing dataset using the environment
+- Interaction_Network.ipynb: Interaction Network algorithm
+
+<br>
+
+## Links of files 
+
+- [Env (windows)](https://www.dropbox.com/s/yg1j4f8k2iilub3/env.zip?dl=0) -> Unzip it inside the `env` folder
+- [Env (Linux)](https://www.dropbox.com/s/6r96wkdd0y78br1/env_linux.zip?dl=0) -> Unzip it inside the `env` folder
+- [Training data](https://www.dropbox.com/s/gu4kjfnhjdhfvpl/Training_dataset.mat?dl=0) -> Put training data inside `data` folder
+- [Testing data](https://www.dropbox.com/s/zkxnwze42qzcl12/Testing_dataset.mat?dl=0) -> Put Testing data inside `data` folder
+- [Network Variables](https://www.dropbox.com/s/964co0c52f01gj4/model.zip?dl=0) -> Put model file inside `saved_networks` folder 
 
