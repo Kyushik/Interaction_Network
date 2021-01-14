@@ -36,7 +36,8 @@ In the dataset, there is data **X** and **Y**. Data X is input data of the Inter
 ## Description of Files
 
 - Making_Dataset.ipynb: You can make training and testing dataset using the environment
-- Interaction_Network.ipynb: Interaction Network algorithm
+- IN_tf.ipynb: Interaction Network algorithm (Tensorflow 1.x)
+- IN_torch.ipynb: Interaction Network algorithm (Torch 1.7)
 
 <br>
 
